@@ -1,0 +1,114 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Restaurant One",
+            "address": "123 Main Street",
+            "rating": 4.5,
+            "distance": 2.5,
+            "free_tables": 10,
+            "cuisine": ["American", "Italian"],
+            "menu": ["Steak", "Pasta", "Salad"]
+        },
+        {
+            "id": 2,
+            "name": "Cafe Delight",
+            "address": "456 Elm Street",
+            "rating": 4.0,
+            "distance": 1.2,
+            "free_tables": 5,
+            "cuisine": ["Coffee", "Pastries"],
+            "menu": ["Espresso", "Croissant", "Cake"]
+        },
+        {
+            "id": 3,
+            "name": "Pizza Palace",
+            "address": "789 Oak Avenue",
+            "rating": 4.2,
+            "distance": 3.0,
+            "free_tables": 8,
+            "cuisine": ["Italian", "Pizza"],
+            "menu": ["Margherita Pizza", "Pasta", "Tiramisu"]
+        },
+        {
+            "id": 4,
+            "name": "Sushi Bar",
+            "address": "321 Pine Road",
+            "rating": 4.8,
+            "distance": 0.8,
+            "free_tables": 3,
+            "cuisine": ["Japanese", "Sushi"],
+            "menu": ["Sashimi", "Maki Rolls", "Tempura"]
+        },
+        {
+            "id": 5,
+            "name": "Burger Joint",
+            "address": "654 Cedar Lane",
+            "rating": 3.9,
+            "distance": 2.7,
+            "free_tables": 12,
+            "cuisine": ["Mexican"],
+            "menu": ["Tacos", "Burritos", "Guacamole"]
+        },
+        {
+            "id": 6,
+            "name": "Taco Truck",
+            "address": "987 Maple Drive",
+            "rating": 4.1,
+            "distance": 1.5,
+            "free_tables": 6,
+            "cuisine": ["American", "Fast Food"],
+            "menu": ["Cheeseburger", "Fries", "Milkshake"]
+        },
+        {
+            "id": 7,
+            "name": "Fine Dining Experience",
+            "address": "234 Birch Street",
+            "rating": 4.7,
+            "distance": 4.2,
+            "free_tables": 2,
+            "cuisine": ["Italian"],
+            "menu": ["Spaghetti Carbonara", "Lasagna", "Tiramisu"]
+        },
+        {
+            "id": 8,
+            "name": "Pasta Paradise",
+            "address": "567 Walnut Avenue",
+            "rating": 4.4,
+            "distance": 2.1,
+            "free_tables": 9,
+            "cuisine": ["Indian"],
+            "menu": ["Chicken Tikka Masala", "Vegetable Biryani", "Naan Bread"]
+        },
+        {
+            "id": 9,
+            "name": "Seafood Shack",
+            "address": "876 Spruce Lane",
+            "rating": 4.6,
+            "distance": 0.5,
+            "free_tables": 4,
+            "cuisine": ["Healthy", "Salads"],
+            "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+        },
+        {
+            "id": 10,
+            "name": "Vegetarian Delight",
+            "address": "543 Cedar Lane",
+            "rating": 4.3,
+            "distance": 3.5,
+            "free_tables": 7,
+            "cuisine": ["Healthy", "Salads"],
+            "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+        },
+        {
+            "id": 11,
+            "name": "BBQ Pit",
+            "address": "765 Elm Street",
+            "rating": 4.9,
+            "distance": 1.0,
+            "free_tables": 1,
+            "cuisine": ["Healthy", "Salads"],
+            "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+        }
+    ]
+}
