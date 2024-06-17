@@ -7,5 +7,7 @@
     "distance": 3.0,
     "free_tables": 8,
     "cuisine": ["Italian", "Pizza"],
-    "menu": ["Margherita Pizza", "Pasta", "Tiramisu"]
+    "menu": ["Margherita Pizza", "Pasta", "Tiramisu"],
+    "lat": 38.86062100000000,
+    "lon": -72.98636399999999
 }
