@@ -6,7 +6,8 @@
     "image": "2.jpg",
     "distance": 1.2,
     "free_tables": 5,
-    "cuisine": ["Coffee", "Pastries"],
+    "imageCuisine":"🇷🇺",
+    "cuisine": "Russian",
     "menu": ["Espresso", "Croissant", "Cake"],
     "lat": 39.73062100000000,
     "lon": -69.98636399999999
