@@ -6,7 +6,8 @@
     "image": "3.jpg",
     "distance": 3.0,
     "free_tables": 8,
-    "cuisine": ["Italian", "Pizza"],
+    "imageCuisine":"🇮🇹",
+    "cuisine": "Italian",
     "menu": ["Margherita Pizza", "Pasta", "Tiramisu"],
     "lat": 38.86062100000000,
     "lon": -72.98636399999999
