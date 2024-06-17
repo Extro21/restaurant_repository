@@ -7,5 +7,7 @@
     "distance": 1.5,
     "free_tables": 6,
     "cuisine": ["American", "Fast Food"],
-    "menu": ["Cheeseburger", "Fries", "Milkshake"]
+    "menu": ["Cheeseburger", "Fries", "Milkshake"],
+    "lat": 39.72062100000000,
+    "lon": -72.98636399999999
 }
