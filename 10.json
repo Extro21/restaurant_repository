@@ -6,7 +6,7 @@
     "image": "10.jpg",
     "distance": 3.5,
     "free_tables": 7,
-    "imageCuisine":"🇮🇹",
+    "image_cuisine":"🇮🇹",
     "cuisine": "Italian",
     "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"],
     "lat": 41.76062100000000,
