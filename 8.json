@@ -6,7 +6,7 @@
     "image": "8.jpg",
     "distance": 2.1,
     "free_tables": 9,
-    "imageCuisine":"🇮🇴",
+    "image_cuisine":"🇮🇴",
     "cuisine": "Indian",
     "menu": ["Chicken Tikka Masala", "Vegetable Biryani", "Naan Bread"],
     "lat": 41.90062100000000,
