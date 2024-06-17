@@ -7,5 +7,7 @@
     "distance": 2.1,
     "free_tables": 9,
     "cuisine": ["Indian"],
-    "menu": ["Chicken Tikka Masala", "Vegetable Biryani", "Naan Bread"]
+    "menu": ["Chicken Tikka Masala", "Vegetable Biryani", "Naan Bread"],
+    "lat": 41.90062100000000,
+    "lon": -73.21636399999999
 }
