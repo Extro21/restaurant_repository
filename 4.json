@@ -6,7 +6,8 @@
     "image": "",
     "distance": 0.8,
     "free_tables": 3,
-    "cuisine": ["Japanese", "Sushi"],
+    "imageCuisine":"🇯🇵",
+    "cuisine": "Japanese",
     "menu": ["Sashimi", "Maki Rolls", "Tempura"],
     "lat": 42.76062100000000,
     "lon": -71.98636399999999
