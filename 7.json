@@ -6,7 +6,8 @@
     "image": "",
     "distance": 4.2,
     "free_tables": 2,
-    "cuisine": ["Italian"],
+    "imageCuisine":"🇮🇹",
+    "cuisine": "Italian",
     "menu": ["Spaghetti Carbonara", "Lasagna", "Tiramisu"],
     "lat": 41.76062100000000,
     "lon": -74.98636399999999
