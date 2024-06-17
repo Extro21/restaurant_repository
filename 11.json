@@ -6,7 +6,8 @@
     "image": "11.jpg",
     "distance": 1.0,
     "free_tables": 1,
-    "cuisine": ["Healthy", "Salads"],
+    "imageCuisine":"🇫🇷",
+    "cuisine": "France",
     "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"],
     "lat": 45.76062300000000,
     "lon": -71.98236399999999
