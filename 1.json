@@ -6,7 +6,7 @@
     "image": "1.jpg",
     "distance": 2.5,
     "free_tables": 10,
-    "imageCuisine":"🇺🇲",
+    "image_cuisine":"🇺🇲",
     "cuisine": "American",
     "menu": ["Steak", "Pasta", "Salad"],
     "lat": 40.75507500000001,
