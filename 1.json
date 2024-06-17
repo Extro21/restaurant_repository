@@ -7,7 +7,7 @@
     "distance": 2.5,
     "free_tables": 10,
     "cuisine": ["American", "Italian"],
-    "menu": ["Steak", "Pasta", "Salad"]
+    "menu": ["Steak", "Pasta", "Salad"],
     "lat": 40.75507500000001,
     "lon": -73.96901999999997
 }
