@@ -1,0 +1,11 @@
+{
+    "id": 8,
+    "name": "Pasta Paradise",
+    "address": "567 Walnut Avenue",
+    "rating": 4.4,
+    "image": "8.jpg",
+    "distance": 2.1,
+    "free_tables": 9,
+    "cuisine": ["Indian"],
+    "menu": ["Chicken Tikka Masala", "Vegetable Biryani", "Naan Bread"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "name": "Pizza Palace",
+    "address": "789 Oak Avenue",
+    "rating": 4.2,
+    "image": "3.jpg",
+    "distance": 3.0,
+    "free_tables": 8,
+    "cuisine": ["Italian", "Pizza"],
+    "menu": ["Margherita Pizza", "Pasta", "Tiramisu"]
+}

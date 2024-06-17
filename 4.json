@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "name": "Sushi Bar",
+    "address": "321 Pine Road",
+    "rating": 4.8,
+    "image": "",
+    "distance": 0.8,
+    "free_tables": 3,
+    "cuisine": ["Japanese", "Sushi"],
+    "menu": ["Sashimi", "Maki Rolls", "Tempura"]
+}

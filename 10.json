@@ -1,0 +1,11 @@
+{
+    "id": 10,
+    "name": "Vegetarian Delight",
+    "address": "543 Cedar Lane",
+    "rating": 4.3,
+    "image": "10.jpg",
+    "distance": 3.5,
+    "free_tables": 7,
+    "cuisine": ["Healthy", "Salads"],
+    "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+}

@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "name": "Cafe Delight",
+    "address": "456 Elm Street",
+    "rating": 4.0,
+    "image": "2.jpg",
+    "distance": 1.2,
+    "free_tables": 5,
+    "cuisine": ["Coffee", "Pastries"],
+    "menu": ["Espresso", "Croissant", "Cake"]
+}

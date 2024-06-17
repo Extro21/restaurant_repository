@@ -1,0 +1,11 @@
+{
+    "id": 5,
+    "name": "Burger Joint",
+    "address": "654 Cedar Lane",
+    "rating": 3.9,
+    "image": "5.jpg",
+    "distance": 2.7,
+    "free_tables": 12,
+    "cuisine": ["Mexican"],
+    "menu": ["Tacos", "Burritos", "Guacamole"]
+}

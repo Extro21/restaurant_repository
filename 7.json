@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "name": "Fine Dining Experience",
+    "address": "234 Birch Street",
+    "rating": 4.7,
+    "image": "",
+    "distance": 4.2,
+    "free_tables": 2,
+    "cuisine": ["Italian"],
+    "menu": ["Spaghetti Carbonara", "Lasagna", "Tiramisu"]
+}

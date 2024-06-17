@@ -1,0 +1,11 @@
+{
+    "id": 6,
+    "name": "Taco Truck",
+    "address": "987 Maple Drive",
+    "rating": 4.1,
+    "image": "6.jpg",
+    "distance": 1.5,
+    "free_tables": 6,
+    "cuisine": ["American", "Fast Food"],
+    "menu": ["Cheeseburger", "Fries", "Milkshake"]
+}

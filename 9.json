@@ -1,0 +1,11 @@
+{
+    "id": 9,
+    "name": "Seafood Shack",
+    "address": "876 Spruce Lane",
+    "rating": 4.6,
+    "image": "9.jpg",
+    "distance": 0.5,
+    "free_tables": 4,
+    "cuisine": ["Healthy", "Salads"],
+    "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+}

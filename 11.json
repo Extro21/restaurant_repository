@@ -1,0 +1,11 @@
+{
+    "id": 11,
+    "name": "BBQ Pit",
+    "address": "765 Elm Street",
+    "rating": 4.9,
+    "image": "11.jpg",
+    "distance": 1.0,
+    "free_tables": 1,
+    "cuisine": ["Healthy", "Salads"],
+    "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+}

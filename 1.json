@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Restaurant One",
+    "address": "123 Main Street",
+    "rating": 4.5,
+    "image": "1.jpg",
+    "distance": 2.5,
+    "free_tables": 10,
+    "cuisine": ["American", "Italian"],
+    "menu": ["Steak", "Pasta", "Salad"]
+}
