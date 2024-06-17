@@ -7,5 +7,7 @@
     "distance": 3.5,
     "free_tables": 7,
     "cuisine": ["Healthy", "Salads"],
-    "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"]
+    "menu": ["Greek Salad", "Caesar Salad", "Quinoa Bowl"],
+    "lat": 41.76062100000000,
+    "lon": -72.98636399999999
 }
