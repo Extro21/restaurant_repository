@@ -7,5 +7,7 @@
     "distance": 1.2,
     "free_tables": 5,
     "cuisine": ["Coffee", "Pastries"],
-    "menu": ["Espresso", "Croissant", "Cake"]
+    "menu": ["Espresso", "Croissant", "Cake"],
+    "lat": 39.73062100000000,
+    "lon": -69.98636399999999
 }
