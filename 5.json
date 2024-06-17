@@ -7,5 +7,7 @@
     "distance": 2.7,
     "free_tables": 12,
     "cuisine": ["Mexican"],
-    "menu": ["Tacos", "Burritos", "Guacamole"]
+    "menu": ["Tacos", "Burritos", "Guacamole"],
+    "lat": 38.76062100000000,
+    "lon": -72.98636399999999
 }
