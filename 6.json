@@ -6,7 +6,7 @@
     "image": "6.jpg",
     "distance": 1.5,
     "free_tables": 6,
-    "imageCuisine":"🇺🇸",
+    "image_cuisine":"🇺🇸",
     "cuisine": "American",
     "menu": ["Cheeseburger", "Fries", "Milkshake"],
     "lat": 39.72062100000000,
